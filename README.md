@@ -35,7 +35,7 @@ https://github.com/petrik-frontend/vueajax/blob/mindentbele/src/App.vue
 2. Töröld ki az eddigieket vagy indíts egy új branch-et és próbáld meg segítség nélkül megvalósítani mindkét Entitás teljes adminisztrációját (Listázás, Új létrehozás, Módosítás, Törlés)
 
 3. Amint látod a listázást, új létrehozást, módosítást jól elkülöníthető HTML és JavaScript kódokkal rendelkeznek. Készíts három komponenst.
-    1. Listázza a rekordokat és elérhető innen a szerkesztés, törlés és az új létrehozás.
+    1. Táblázat a rekordok listájával. Innen elérhető a szerkesztés, törlés és az új létrehozás.
     2. Űrlap, amivel új entitást lehet létrehozni
     3. Űrlap, amivel meglévő entitást lehet szerkeszteni.
 
